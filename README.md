@@ -184,9 +184,13 @@ Add your own evidence to `images/dashboard/`, then keep these image links (or ad
 ![Daily sales](images/charts/daily_sales.png)
 ![Future forecast](images/charts/future_forecast.png)
 
-**Demo video:** [https://youtu.be/JDMo5V8n_es](DEMO_VIDEO_LINK_HERE)
+### 🎥 Project Demonstration
 
-> **Before publishing:** Replace `DEMO_VIDEO_LINK_HERE` with an actual public video link, or remove the demo-video line until the recording is uploaded. Add the screenshot files under the exact names above, or update the links.
+Watch the complete walkthrough of the Retail Sales Forecasting & Inventory Optimization System.
+
+[▶ Watch Project Demo on YouTube](https://youtu.be/JDMo5V8n_es)
+
+
 
 ## Key outputs
 
